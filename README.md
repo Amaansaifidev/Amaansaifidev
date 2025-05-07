@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Amaan saifi I am a expo/react native developer who have hands down experience of 2 years of expo and Express js backend </h1>
+<h1>Hi 👋, I'm Amaan saifi I am a expo/react native developer who have hands down experience of 2 years of expo/react-native and Express js backend </h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
